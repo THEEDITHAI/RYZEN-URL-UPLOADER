@@ -28,8 +28,8 @@ class Config(object):
     BOT_TOKEN = ""
 
     # Get these values from my.telegram.org
-    API_ID = 1234567
-    API_HASH = ""
+    API_ID = 25683991
+    API_HASH = "887776e5d045135785b0fd48c757448e"
 
     # No need to change
     DOWNLOAD_LOCATION = "./DOWNLOADS"
