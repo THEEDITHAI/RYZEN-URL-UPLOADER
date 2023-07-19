@@ -44,7 +44,7 @@ class Config(object):
     OWNER_ID = 1288398723
 
     # bot username without @
-    BOT_USERNAME = "AdvanceUrlUploaderBot"
+    BOT_USERNAME = "EDITIHBOT"
 
     # auth users
     AUTH_USERS = [OWNER_ID]
